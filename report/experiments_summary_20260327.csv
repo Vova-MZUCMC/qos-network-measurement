@@ -1,0 +1,4 @@
+run_id,total_packets,successful_packets,lost_packets,packet_loss_percent,latency_mean,latency_median,latency_p95,latency_min,latency_max,latency_std
+20260327_190340,20,20,0,0.00,44.08,41.35,47.14,40.30,85.90,9.94
+20260327_191727,18,17,1,5.56,208.00,208.00,251.00,0.00,419.00,74.08
+20260327_192028,10,8,2,20.00,46.80,41.15,69.90,40.90,84.50,15.25
